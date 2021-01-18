@@ -21,7 +21,6 @@ source $HOME/.config/nvim/config-custom/statusbarbottom.vim
 :set relativenumber
 :set laststatus=2
 :set noshowmode
-:set laststatus=2
 :set noshowmode
 :set cmdheight=1
 :set listchars=tab:··,trail:~,extends:>,precedes:<
